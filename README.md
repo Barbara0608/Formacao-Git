@@ -30,14 +30,14 @@ git add .
 git commit -m "<mensagem do commit>"
 ```
 
-### Enviar alterações para o repositório remoto: 
-```bash
-git push origin main
-```
-
 ### Baixar alterações do repositório remoto: 
 ```bash
 git pull origin main
+```
+
+### Enviar alterações para o repositório remoto: 
+```bash
+git push origin main
 ```
 
 ## Mensagens de Commit - Convensão
