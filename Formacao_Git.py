@@ -8,6 +8,8 @@ def main():
     print("Hiiiii, Ema")
     print("Hi, Jaime Silva")
     print("Hi, Andre Lopo")
+
+    
 if __name__ == "__main__":
     main()
 
